@@ -11,7 +11,8 @@
 - Run this command : `go run main.go`
 - Test the app with postman, Insomnia, HTTPie etc.
 - The following is an example of data to test this app :
-    **Methode POST :**
+    
+    **Method POST**
     ```
     [
         {
